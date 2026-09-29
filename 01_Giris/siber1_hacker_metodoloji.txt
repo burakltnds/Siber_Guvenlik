@@ -1,0 +1,6 @@
+HACKER METODOLOJISI
+bilgi toplama --> who.is sitesi iş görür
+tarama işlemleri(zafiyetler bulma) --> Nmap bilinmeli
+exploitDB.com da zaafiyetlerden yararlanılır mı diye öğrenmek için kullanılabilir
+Maintain Acces --> içeri girildiğinde ne yapılacağı bir daha girilip girilemeyeceği RAT atılabilir
+Covering Acces --> bütün logalrı silebiliriz yetki yükseltmesi yapabiliriz
