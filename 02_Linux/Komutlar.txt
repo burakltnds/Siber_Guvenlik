@@ -1,0 +1,13 @@
+pwd --> bulunduğun klasor
+echo > --> dosyaya sıfırdan yazma
+echo >> --> üstüne yazma 
+cat --> dosya okuma
+rm -r --> boş olmayan klasoru silme
+less --> cat ile aynı işlev ama kaydırdıkça gelir
+locate --> bir dosyanın konumunu belirleme 
+cp dosya_adi kopyalancagi_yer/yeni_isim.txt --> kopyalama
+mv --> taşıma
+aranacak_metin_vs  | grep md5 --> aranacak metinde md5 gecen yerleri getirir
+chmod +xwr dosya --> mod değiştirme
+ps -u kullanici adi --> çalışan işlemleri gösterir
+pkill -u kullanici --> proceslerini kapat

@@ -1,0 +1,5 @@
+SERTIFIKALAR --> OSCP,OSCE,OSWE,OSWP,CEH,COMPTIA SECURITY,CCNA CYBEROPS
+POZISYONLAR  --> Ağ Güvenliği,Bilgi Güvenliği Uzmanı,Güvenlik Analisti,Sızma Testi Uzmanı,Veri GÜvenliği Uzmanı, GÜvenlik Mimarı
+SOME --> Siber olaylara müdahale ekibi
+SOC  --> Güvenlik Operasyon Merkezi (Müdahaleninin yanında olası yeni riskleride analiz eder)
+USOM --> TÜrkiye ulusal siber olayalra müdahale ekibi

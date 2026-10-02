@@ -1,0 +1,13 @@
+sudo passwd --> yeni parola belirleme(root)
+su root --> root olarak giriş yapma
+useradd -m --> kullanıcıyı home ile birlikte oluşturur
+useradd -s /usr/bin/(bash,zsh) --> kullanıcağı kabuk bash yada zsh
+useradd -G sudo --> Sudo çalıştırabilir
+passwd --> kullanicilara parola verme
+su kullanici_adi --> kullanici değiştirme
+etc/shadow --> kullanici bilgilerini içerir şifre hashlenmiş biçimdedir
+userdel -r -> home diziniyle birlikte kullaniciyi siler
+groupadd --> grup ekler
+usermod -aG grup_adi kullanici_adi --> gruba kullanıcı ekleme
+groupdel --> grup silmek
+chwon kullanici_adi:group_adi --> sahiplik değiştirme

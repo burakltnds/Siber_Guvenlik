@@ -1,0 +1,5 @@
+OWASP --> web güvenliği anlamında iyi bir kuruluştur araçlarıyla web sızma testleri yapılabilir
+güvenlik amaçlı statik kod analizi araçları vardır.
+aynı zamanda dinamik kod analizi ürün çalışırken yapılan analiz.
+SSDLC --> Yazılım geliştirme döngüsüne güvenlik kurallarının eklenmiş hali
+RISK YONETOM --> NIST var (identify->risk değerlendirme, Protect-> korunma, Detect-> anamoliyi kontrol eden sistemler,Respond -> saldırı sonrası cevap, Recover -> kurtulma ve öz eleştiri), TSE Standartları vardır.

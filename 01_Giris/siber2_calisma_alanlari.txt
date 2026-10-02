@@ -1,0 +1,4 @@
+DONANIM GÜVENLİĞİ
+VERİ SIZINTISI
+PAROLA GÜVENLİĞİ --> Brute Force saldırısı , Dictionary saldırısı , Phishing , Rainbow Table
+KURUMSAL AĞ --> Intranet kurum içi web siteleri 

@@ -1,0 +1,7 @@
+apt update --> indirme kurma yapmaz listeler
+apt --list upgradeable --> güncellemeleri detaylı gösterir
+apt install paket_Adi --> güncellemeleri denetler
+apt install nmap --> belli uygulamayı güncellemeleri denetler
+apt upgrade --> paket ve bağımlılıkları günceller
+apt full-upgrade --> sistemde olmayan yeni güncellemeleride indirir
+apt autoremove --> gereksiz şeyleri siler

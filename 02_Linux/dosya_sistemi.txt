@@ -1,0 +1,2 @@
+kendi script(çalıştırılabilir programlarımızı yazabiliriz)
+bunları /usr/local/bin konumuna atmalıyız
